@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version":"0.0.1",
+    "name":"DankiExtension",
+    "description":"Extensão da Danki Code",
+    "author":"Miguel Henrique",
+    "browser_action":{
+        "default_title":"DankiCode",
+        "default_popup":"index.html"
+    }
+
+}

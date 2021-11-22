@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version":"0.0.1",
+    "name":"BigFonts",
+    "description":"Extensão De Acessibilidade, de Aumentar Fontes de Texto",
+    "author":"Miguel Henrique",
+    "browser_action":{
+        "default_title":"BigFonts",
+        "default_popup":"index.html"
+    }
+
+}

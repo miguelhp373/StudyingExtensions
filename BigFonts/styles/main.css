@@ -1,0 +1,8 @@
+.buttons_row{
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    cursor: pointer;
+}
